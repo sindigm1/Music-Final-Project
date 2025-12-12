@@ -9,6 +9,6 @@ The data collected for this analysis was the 200 best songs of the 2010s. The qu
 I gather the data by taking account each song's year it came out and finding how many streams the song has.
 
 ## **Operationalization**
-The concept of streams was operationalized through a quantitative variable counting the total number of streams a song has received on Spotify, ranging from 32,000 to 2,592,850,634.
+The concept of streams was operationalized through a quantitative variable counting the total number of streams a song has received on Spotify, ranging from 30,381 to 2,592,850,634.
 
-The concept of year at release was operationalized by researching the year the song was made and creating a quantitative variable that ranged from 2010 to 2019.
+The concept of year at release was operationalized by researching the year the song was made and creating a quantitative variable that ranged from 2008 to 2019.
